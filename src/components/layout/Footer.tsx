@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
               AI-powered resume analysis to help you land your dream job. Get personalized insights and recommendations based on your skills and experience.
             </p>
             <div className="flex space-x-4 mt-6">
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
+              <a href="https://github.com/learnerofdeveloper" className="text-gray-400 hover:text-white transition-colors">
                 <Github className="h-5 w-5" />
               </a>
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
